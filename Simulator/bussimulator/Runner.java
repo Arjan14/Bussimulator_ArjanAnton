@@ -42,6 +42,7 @@ public class Runner implements Runnable {
 			}
 		}		
 	}
+//Hallo testtest
 
 	public static void sendETAs(int nu){
 		Iterator<Bus> itr = actieveBussen.iterator();

@@ -9,6 +9,7 @@ public class JSONBericht {
 	private String busID;
 	private String bedrijf;
 	private String eindpunt;
+//Hallo testtest
 
 	public JSONBericht(int tijd, int aankomsttijd, String lijnNaam, String busID, String bedrijf, String eindpunt) {
 		super();

@@ -1,6 +1,7 @@
 package mockDatabaseLogger;
 
 import java.util.ArrayList;
+//Hallo testtest
 
 public class Bericht {
 	String lijnNaam;
@@ -20,3 +21,4 @@ public class Bericht {
 	}
 
 }
+//Hallo testtest

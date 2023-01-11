@@ -17,8 +17,9 @@ public  class ListenerStarter implements Runnable, ExceptionListener {
 	
 	public ListenerStarter() {
 	}
-	
-	public ListenerStarter(String selector, Infobord infobord, Berichten berichten) {
+    //Hallo testtest
+
+    public ListenerStarter(String selector, Infobord infobord, Berichten berichten) {
 		this.selector=selector;
 		this.infobord=infobord;
 		this.berichten=berichten;

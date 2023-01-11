@@ -10,6 +10,7 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 
 public class HTTPFuncties {
+//Hallo testtest
 
 	String executeGet(String formaat) throws ClientProtocolException, IOException{
     	String url = "http://localhost:8081/TijdServer?responseType="+formaat;

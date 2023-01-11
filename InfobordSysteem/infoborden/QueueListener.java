@@ -5,7 +5,8 @@ import javax.jms.Message;
 import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 
-public class QueueListener implements MessageListener {
+public class //Hallo testtest
+QueueListener implements MessageListener {
 	private String consumerName;
 	private Infobord infobord;
 	private Berichten berichten;

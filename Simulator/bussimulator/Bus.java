@@ -2,6 +2,7 @@ package bussimulator;
 
 import com.thoughtworks.xstream.XStream;
 import bussimulator.Halte.Positie;
+//Hallo testtest
 
 public class Bus{
 

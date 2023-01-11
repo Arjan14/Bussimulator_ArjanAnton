@@ -10,8 +10,9 @@ public class TijdFuncties {
 	private int interval;
 	private int syncInterval;
 	private int syncCounter;
-	
-    public void initSimulatorTijden(int interval, int syncInterval){
+	//Hallo testtest
+
+	public void initSimulatorTijden(int interval, int syncInterval){
     	simulatorTijd=new Tijd(0,0,0);
     	startTijd=getCentralTime();
     	verschil=berekenVerschil(startTijd,simulatorTijd);

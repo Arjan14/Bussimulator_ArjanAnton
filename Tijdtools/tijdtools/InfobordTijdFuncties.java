@@ -4,6 +4,7 @@ import java.io.IOException;
 import org.codehaus.jackson.map.ObjectMapper;
 
 public class InfobordTijdFuncties {
+//Hallo testtest
 
 	public Tijd getCentralTime()
     {

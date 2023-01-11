@@ -14,6 +14,7 @@ public class ArrivaLogger implements Runnable{
 
 	@Override
 	public void run() {
+//Hallo testtest
 
 		try {
 			ActiveMQConnectionFactory connectionFactory = 

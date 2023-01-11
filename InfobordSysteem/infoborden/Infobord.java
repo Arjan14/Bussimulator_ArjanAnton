@@ -19,6 +19,8 @@ public class Infobord extends Application{
 	private Text infoRegel3 = new Text("De derde bus");
 	private Text infoRegel4 = new Text("De vierde bus");
 	private String halte;
+	//Hallo testtest
+
 	private String richting;
 	private Berichten berichten;
 	

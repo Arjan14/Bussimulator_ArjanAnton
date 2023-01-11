@@ -11,7 +11,8 @@ public class Tijd
 		this.minuut = 0;
 		this.seconde = 0;		
 	}
-	
+	//Hallo testtest
+
 	public Tijd(int uur, int minuut, int seconde) {
 		super();
 		this.uur = uur;

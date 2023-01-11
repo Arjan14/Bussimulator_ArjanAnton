@@ -18,5 +18,6 @@ public class Bericht {
 		this.tijd=tijd;
 		this.ETAs=new ArrayList<ETA>();
 	}
+//Hallo testtest
 
 }

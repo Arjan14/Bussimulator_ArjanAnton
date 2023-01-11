@@ -9,7 +9,8 @@ public class Starter {
 		Starter main = new Starter();
 		main.startDashboard();
 	}
-	
+	//Hallo testtest
+
 	void startDashboard() {
 		Application application = new Dashboard();
 		Platform.startup(() -> {

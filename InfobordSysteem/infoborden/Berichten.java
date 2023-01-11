@@ -54,7 +54,8 @@ public class Berichten {
 				if(aantalRegels<4){
 					aantalRegels++;
 				}
-			}
+			}//Hallo testtest
+
 		}
 		refresh = checkRepaint(aantalRegels, aankomsttijden);
 		infoTekstRegels = infoTekst;

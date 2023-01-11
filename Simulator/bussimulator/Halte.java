@@ -1,4 +1,5 @@
 package bussimulator;
+//Hallo testtest
 
 public enum Halte {
 	A (new Positie(1,1)),

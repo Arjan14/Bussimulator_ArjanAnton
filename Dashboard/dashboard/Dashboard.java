@@ -26,8 +26,9 @@ public class Dashboard extends Application {
 		brokerThread.setDaemon(daemon);
 		brokerThread.start();
 	}
-    
-    private void startBord(String halte, String richting) {
+	//Hallo testtest
+
+	private void startBord(String halte, String richting) {
 		Infobord infobord = new Infobord(halte,richting);
 		Platform.runLater(new Runnable() {
 			public void run() {             
